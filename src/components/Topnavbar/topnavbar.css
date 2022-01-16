@@ -1,6 +1,7 @@
 .topnav {
     background-color: aquamarine;
     overflow: hidden;
+    z-index: 100;
 }
 
 .topnav a {

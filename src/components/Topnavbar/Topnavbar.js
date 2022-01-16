@@ -1,9 +1,9 @@
 import React from 'react';
-import './topnavbar.css'
+import './topnavbar.css';
 
-const Topnavbar = () => (
+const Topnavbar = (props) => (
     <div class="topnav">
-        <a href="#home">Home</a>
+        { Object.keys(props).map(prop => (<a href={props[prop]}>{prop}</a>)) }
     </div>
 )
 
