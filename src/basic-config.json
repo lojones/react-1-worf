@@ -1,0 +1,10 @@
+[
+    { "name": "starship-name", "value": "Enterprise NCC 1701-D"},
+    { "name": "max-warp-speed", "value": "9.9"},
+    { "name": "warp-engine", "value": "on"},
+    { "name": "transporters", "value": "on"},
+    { "name": "holodeck", "value": "on"},
+    { "name": "EMH", "value": ""},
+    { "name": "EMH-max-sentience-level", "value": "narrow"},
+    { "name": "maneuvering-thruster-max-kg", "value": "2,000,000"}
+]
